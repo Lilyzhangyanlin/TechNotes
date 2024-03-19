@@ -1,0 +1,9 @@
+.DS_Store
+
+site/
+.Rproj.user
+.spyproject
+.ipynb_checkpoints/
+tmp/
+
+__pycache__/
